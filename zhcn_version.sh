@@ -1,4 +1,8 @@
-echo "ssh一键生成+添加"
+#!/bin/bash
+echo "----------------"
+echo "----SSH-GEN-----"
+echo "--BY:ArthurDrc--"
+echo "----------------"
 echo "输入ssh密钥用户名，按回车键继续："
 read username
 echo "输入ssh密钥文件名字"
